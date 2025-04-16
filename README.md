@@ -1,4 +1,4 @@
 ## Features
 
-Helper class to override scroll controller methods.
+Helper class for overriding scroll controller methods.
 
