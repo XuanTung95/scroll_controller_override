@@ -1,5 +1,5 @@
 name: scroll_controller_override
-description: "Helper class to override scroll controller methods."
+description: "Helper class for overriding scroll controller methods."
 version: 0.0.1
 homepage: https://github.com/XuanTung95/scroll_controller_override
 
